@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm MengpingGui</h1>
 <h3 align="center">A passionate developer from China.</h3>
+<h3 align="center">I'm intrested in computer vision, SLAM and deep learning.</h3>
 
 - 📫 How to reach me **mengpinggui@gmail.com**
 
